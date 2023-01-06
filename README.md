@@ -1,1 +1,1 @@
-This repo is created the Front-End Css series first homework
+Movie site theme for personal and other users. The interface was created for the programming final assignment.
